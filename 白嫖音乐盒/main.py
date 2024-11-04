@@ -1,4 +1,5 @@
 import sys
+import os
 import webbrowser
 import json
 import random
@@ -7,6 +8,16 @@ from PyQt5.QtCore import QThread, pyqtSignal, Qt  # 添加 Qt 导入
 from PyQt5.QtGui import QPixmap, QPalette, QBrush  # 导入 QBrush
 from The_US_Addr import generate_tax_free_addresses
 from baipiao import SteamScraper
+
+def resource_path(relative_path):
+    """ Get absolute path to resource, works for dev and for PyInstaller """
+    try:
+            # PyInstaller creates a temp folder and stores path in _MEIPASS
+        base_path = sys._MEIPASS
+    except Exception:
+        base_path = os.path.abspath(".")
+
+    return os.path.join(base_path, relative_path)
 
 class SteamScrapeThread(QThread):
     finished = pyqtSignal(str)
@@ -30,6 +41,7 @@ class TutorialWindow(QWidget):
         self.initUI()
         self.show_startup_dialog()  # 显示启动对话框
         self.center_window()  # 将窗口居中显示
+
 
     def initUI(self):
         # 设置主布局
@@ -121,7 +133,9 @@ class TutorialWindow(QWidget):
 
         # 设置窗口背景图片
         palette = self.palette()
-        background_image = QPixmap("Loading.jpg")
+        background_image_path = resource_path("src/Loading.jpg")
+        #background_image = QPixmap("src\\Loading.jpg")
+        background_image = QPixmap(background_image_path)
         brush = QBrush(background_image)
         palette.setBrush(QPalette.Window, brush)
         self.setPalette(palette)
