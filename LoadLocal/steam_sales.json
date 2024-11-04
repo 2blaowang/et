@@ -1,0 +1,452 @@
+[
+    {
+        "title": "Cyberpunk 2077",
+        "url": "https://store.steampowered.com/app/1091500/Cyberpunk_2077/?snr=1_7_7_2300_150_1",
+        "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1091500/capsule_sm_120.jpg?t=1730212296",
+        "id": "1091500",
+        "local_img_path": "resources\\1091500.jpg",
+        "original_price": "$59.99",
+        "final_price": "$29.99",
+        "discount": "无折扣"
+    },
+    {
+        "title": "Dead by Daylight",
+        "url": "https://store.steampowered.com/app/381210/Dead_by_Daylight/?snr=1_7_7_2300_150_1",
+        "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/381210/capsule_sm_120.jpg?t=1730209905",
+        "id": "381210",
+        "local_img_path": "resources\\381210.jpg",
+        "original_price": "$19.99",
+        "final_price": "$7.99",
+        "discount": "无折扣"
+    },
+    {
+        "title": "Stellaris",
+        "url": "https://store.steampowered.com/app/281990/Stellaris/?snr=1_7_7_2300_150_1",
+        "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/281990/7ca899d793feb0824c0e00bfd3463be74ceec2d3/capsule_sm_120_alt_assets_5.jpg?t=1730464906",
+        "id": "281990",
+        "local_img_path": "resources\\281990.jpg",
+        "original_price": "$39.99",
+        "final_price": "$9.99",
+        "discount": "无折扣"
+    },
+    {
+        "title": "Hogwarts Legacy",
+        "url": "https://store.steampowered.com/app/990080/Hogwarts_Legacy/?snr=1_7_7_2300_150_1",
+        "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/990080/capsule_sm_120.jpg?t=1717689083",
+        "id": "990080",
+        "local_img_path": "resources\\990080.jpg",
+        "original_price": "$59.99",
+        "final_price": "$17.99",
+        "discount": "无折扣"
+    },
+    {
+        "title": "NBA 2K25",
+        "url": "https://store.steampowered.com/app/2878980/NBA_2K25/?snr=1_7_7_2300_150_1",
+        "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2878980/capsule_sm_120.jpg?t=1730136287",
+        "id": "2878980",
+        "local_img_path": "resources\\2878980.jpg",
+        "original_price": "$79.99",
+        "final_price": "$39.99",
+        "discount": "无折扣"
+    },
+    {
+        "title": "Sons Of The Forest",
+        "url": "https://store.steampowered.com/app/1326470/Sons_Of_The_Forest/?snr=1_7_7_2300_150_1",
+        "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1326470/capsule_sm_120.jpg?t=1708624856",
+        "id": "1326470",
+        "local_img_path": "resources\\1326470.jpg",
+        "original_price": "$29.99",
+        "final_price": "$16.49",
+        "discount": "无折扣"
+    },
+    {
+        "title": "Red Dead Redemption 2",
+        "url": "https://store.steampowered.com/app/1174180/Red_Dead_Redemption_2/?snr=1_7_7_2300_150_1",
+        "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1174180/capsule_sm_120.jpg?t=1720558643",
+        "id": "1174180",
+        "local_img_path": "resources\\1174180.jpg",
+        "original_price": "$99.99",
+        "final_price": "$34.99",
+        "discount": "无折扣"
+    },
+    {
+        "title": "Ready or Not",
+        "url": "https://store.steampowered.com/app/1144200/Ready_or_Not/?snr=1_7_7_2300_150_1",
+        "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1144200/capsule_sm_120.jpg?t=1729782693",
+        "id": "1144200",
+        "local_img_path": "resources\\1144200.jpg",
+        "original_price": "$49.99",
+        "final_price": "$29.99",
+        "discount": "无折扣"
+    },
+    {
+        "title": "Resident Evil 4",
+        "url": "https://store.steampowered.com/app/2050650/Resident_Evil_4/?snr=1_7_7_2300_150_1",
+        "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2050650/capsule_sm_120.jpg?t=1730246738",
+        "id": "2050650",
+        "local_img_path": "resources\\2050650.jpg",
+        "original_price": "$39.99",
+        "final_price": "$19.99",
+        "discount": "无折扣"
+    },
+    {
+        "title": "Phasmophobia",
+        "url": "https://store.steampowered.com/app/739630/Phasmophobia/?snr=1_7_7_2300_150_1",
+        "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/739630/capsule_sm_120.jpg?t=1727019976",
+        "id": "739630",
+        "local_img_path": "resources\\739630.jpg",
+        "original_price": "$19.99",
+        "final_price": "$14.99",
+        "discount": "无折扣"
+    },
+    {
+        "title": "Battlefield™ 2042",
+        "url": "https://store.steampowered.com/app/1517290/Battlefield_2042/?snr=1_7_7_2300_150_1",
+        "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1517290/capsule_sm_120.jpg?t=1730222453",
+        "id": "1517290",
+        "local_img_path": "resources\\1517290.jpg",
+        "original_price": "$59.99",
+        "final_price": "$4.79",
+        "discount": "无折扣"
+    },
+    {
+        "title": "DayZ",
+        "url": "https://store.steampowered.com/app/221100/DayZ/?snr=1_7_7_2300_150_1",
+        "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/221100/capsule_sm_120.jpg?t=1729253874",
+        "id": "221100",
+        "local_img_path": "resources\\221100.jpg",
+        "original_price": "$49.99",
+        "final_price": "$24.99",
+        "discount": "无折扣"
+    },
+    {
+        "title": "Total War: WARHAMMER III",
+        "url": "https://store.steampowered.com/app/1142710/Total_War_WARHAMMER_III/?snr=1_7_7_2300_150_1",
+        "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1142710/capsule_sm_120.jpg?t=1719611574",
+        "id": "1142710",
+        "local_img_path": "resources\\1142710.jpg",
+        "original_price": "$59.99",
+        "final_price": "$23.99",
+        "discount": "无折扣"
+    },
+    {
+        "title": "Cyberpunk 2077: Phantom Liberty",
+        "url": "https://store.steampowered.com/app/2138330/Cyberpunk_2077_Phantom_Liberty/?snr=1_7_7_2300_150_1",
+        "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2138330/capsule_sm_120.jpg?t=1730212614",
+        "id": "2138330",
+        "local_img_path": "resources\\2138330.jpg",
+        "original_price": "$29.99",
+        "final_price": "$23.99",
+        "discount": "无折扣"
+    },
+    {
+        "title": "Vampire Survivors",
+        "url": "https://store.steampowered.com/app/1794680/Vampire_Survivors/?snr=1_7_7_2300_150_1",
+        "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1794680/capsule_sm_120_alt_assets_2.jpg?t=1730456543",
+        "id": "1794680",
+        "local_img_path": "resources\\1794680.jpg",
+        "original_price": "$4.99",
+        "final_price": "$3.74",
+        "discount": "无折扣"
+    },
+    {
+        "title": "Grand Theft Auto V",
+        "url": "https://store.steampowered.com/app/271590/Grand_Theft_Auto_V/?snr=1_7_7_2300_150_1",
+        "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/271590/capsule_sm_120.jpg?t=1726606628",
+        "id": "271590",
+        "local_img_path": "resources\\271590.jpg",
+        "original_price": "$89.97",
+        "final_price": "$24.30",
+        "discount": "无折扣"
+    },
+    {
+        "title": "GUILTY GEAR -STRIVE-",
+        "url": "https://store.steampowered.com/app/1384160/GUILTY_GEAR_STRIVE/?snr=1_7_7_2300_150_1",
+        "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1384160/c9f73b986a2f984bb95982f0206e0d3ec63d2ee6/capsule_sm_120_alt_assets_1.jpg?t=1730363633",
+        "id": "1384160",
+        "local_img_path": "resources\\1384160.jpg",
+        "original_price": "$39.99",
+        "final_price": "$19.99",
+        "discount": "无折扣"
+    },
+    {
+        "title": "American Truck Simulator",
+        "url": "https://store.steampowered.com/app/270880/American_Truck_Simulator/?snr=1_7_7_2300_150_1",
+        "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/270880/capsule_sm_120.jpg?t=1730374087",
+        "id": "270880",
+        "local_img_path": "resources\\270880.jpg",
+        "original_price": "$19.99",
+        "final_price": "$4.99",
+        "discount": "无折扣"
+    },
+    {
+        "title": "Team Fortress 2",
+        "url": "https://store.steampowered.com/app/440/Team_Fortress_2/?snr=1_7_7_2300_150_1",
+        "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/440/capsule_sm_120.jpg?t=1729702978",
+        "id": "440",
+        "local_img_path": "resources\\440.jpg",
+        "original_price": "无原价",
+        "final_price": "Free",
+        "discount": "无折扣"
+    },
+    {
+        "title": "Cult of the Lamb",
+        "url": "https://store.steampowered.com/app/1313140/Cult_of_the_Lamb/?snr=1_7_7_2300_150_1",
+        "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1313140/capsule_sm_120.jpg?t=1729515117",
+        "id": "1313140",
+        "local_img_path": "resources\\1313140.jpg",
+        "original_price": "$24.99",
+        "final_price": "$12.49",
+        "discount": "无折扣"
+    },
+    {
+        "title": "Windblown",
+        "url": "https://store.steampowered.com/app/1911610/Windblown/?snr=1_7_7_2300_150_1",
+        "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1911610/capsule_sm_120.jpg?t=1729868067",
+        "id": "1911610",
+        "local_img_path": "resources\\1911610.jpg",
+        "original_price": "$24.99",
+        "final_price": "$19.99",
+        "discount": "无折扣"
+    },
+    {
+        "title": "Rivals of Aether II",
+        "url": "https://store.steampowered.com/app/2217000/Rivals_of_Aether_II/?snr=1_7_7_2300_150_1",
+        "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2217000/4b7b4b4b84d4b9ca7c33cb3ad59fb47d83a10007/capsule_sm_120.jpg?t=1729714502",
+        "id": "2217000",
+        "local_img_path": "resources\\2217000.jpg",
+        "original_price": "$29.99",
+        "final_price": "$26.99",
+        "discount": "无折扣"
+    },
+    {
+        "title": "Project Zomboid",
+        "url": "https://store.steampowered.com/app/108600/Project_Zomboid/?snr=1_7_7_2300_150_1",
+        "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/108600/capsule_sm_120.jpg?t=1691508011",
+        "id": "108600",
+        "local_img_path": "resources\\108600.jpg",
+        "original_price": "$19.99",
+        "final_price": "$13.39",
+        "discount": "无折扣"
+    },
+    {
+        "title": "Buckshot Roulette",
+        "url": "https://store.steampowered.com/app/2835570/Buckshot_Roulette/?snr=1_7_7_2300_150_1",
+        "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2835570/capsule_sm_120.jpg?t=1730435201",
+        "id": "2835570",
+        "local_img_path": "resources\\2835570.jpg",
+        "original_price": "$2.99",
+        "final_price": "$2.54",
+        "discount": "无折扣"
+    },
+    {
+        "title": "ARK: Survival Ascended",
+        "url": "https://store.steampowered.com/app/2399830/ARK_Survival_Ascended/?snr=1_7_7_2300_150_1",
+        "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2399830/0f659ec3c20b33f86f66f5729cb7747a095b14bc/capsule_sm_120_alt_assets_4.jpg?t=1730317726",
+        "id": "2399830",
+        "local_img_path": "resources\\2399830.jpg",
+        "original_price": "$44.99",
+        "final_price": "$30.14",
+        "discount": "无折扣"
+    },
+    {
+        "title": "The Last of Us™ Part I",
+        "url": "https://store.steampowered.com/app/1888930/The_Last_of_Us_Part_I/?snr=1_7_7_2300_150_1",
+        "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1888930/capsule_sm_120.jpg?t=1728603021",
+        "id": "1888930",
+        "local_img_path": "resources\\1888930.jpg",
+        "original_price": "$59.99",
+        "final_price": "$35.99",
+        "discount": "无折扣"
+    },
+    {
+        "title": "DREDGE",
+        "url": "https://store.steampowered.com/app/1562430/DREDGE/?snr=1_7_7_2300_150_1",
+        "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1562430/d6c28e6402e85395421ac06ac86cdb0e28b48e27/capsule_sm_120.jpg?t=1725616576",
+        "id": "1562430",
+        "local_img_path": "resources\\1562430.jpg",
+        "original_price": "$24.99",
+        "final_price": "$14.99",
+        "discount": "无折扣"
+    },
+    {
+        "title": "Marvel’s Spider-Man Remastered",
+        "url": "https://store.steampowered.com/app/1817070/Marvels_SpiderMan_Remastered/?snr=1_7_7_2300_150_1",
+        "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1817070/capsule_sm_120.jpg?t=1725652915",
+        "id": "1817070",
+        "local_img_path": "resources\\1817070.jpg",
+        "original_price": "$59.99",
+        "final_price": "$35.99",
+        "discount": "无折扣"
+    },
+    {
+        "title": "Persona 5 Royal",
+        "url": "https://store.steampowered.com/app/1687950/Persona_5_Royal/?snr=1_7_7_2300_150_1",
+        "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1687950/capsule_sm_120.jpg?t=1722428154",
+        "id": "1687950",
+        "local_img_path": "resources\\1687950.jpg",
+        "original_price": "$59.99",
+        "final_price": "$23.99",
+        "discount": "无折扣"
+    },
+    {
+        "title": "Sea of Thieves: 2024 Edition",
+        "url": "https://store.steampowered.com/app/1172620/Sea_of_Thieves_2024_Edition/?snr=1_7_7_2300_150_1",
+        "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1172620/57502441e09f5b8eaa560b2d1538cb3d68c32ab9/capsule_sm_120.jpg?t=1729267948",
+        "id": "1172620",
+        "local_img_path": "resources\\1172620.jpg",
+        "original_price": "$39.99",
+        "final_price": "$19.99",
+        "discount": "无折扣"
+    },
+    {
+        "title": "Lethal Company",
+        "url": "https://store.steampowered.com/app/1966720/Lethal_Company/?snr=1_7_7_2300_150_1",
+        "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1966720/capsule_sm_120.jpg?t=1723894859",
+        "id": "1966720",
+        "local_img_path": "resources\\1966720.jpg",
+        "original_price": "$9.99",
+        "final_price": "$6.99",
+        "discount": "无折扣"
+    },
+    {
+        "title": "No Man's Sky",
+        "url": "https://store.steampowered.com/app/275850/No_Mans_Sky/?snr=1_7_7_2300_150_1",
+        "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/275850/4496e9b3aba5b0e22064a0032d1c044d628e84ca/capsule_sm_120_alt_assets_16.jpg?t=1729690078",
+        "id": "275850",
+        "local_img_path": "resources\\275850.jpg",
+        "original_price": "$59.99",
+        "final_price": "$23.99",
+        "discount": "无折扣"
+    },
+    {
+        "title": "The Forest",
+        "url": "https://store.steampowered.com/app/242760/The_Forest/?snr=1_7_7_2300_150_1",
+        "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/242760/capsule_sm_120.jpg?t=1699381053",
+        "id": "242760",
+        "local_img_path": "resources\\242760.jpg",
+        "original_price": "$19.99",
+        "final_price": "$3.99",
+        "discount": "无折扣"
+    },
+    {
+        "title": "Subnautica",
+        "url": "https://store.steampowered.com/app/264710/Subnautica/?snr=1_7_7_2300_150_1",
+        "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/264710/capsule_sm_120.jpg?t=1729208919",
+        "id": "264710",
+        "local_img_path": "resources\\264710.jpg",
+        "original_price": "$29.99",
+        "final_price": "$14.99",
+        "discount": "无折扣"
+    },
+    {
+        "title": "Vampire Survivors: Ode to Castlevania",
+        "url": "https://store.steampowered.com/app/3210350/Vampire_Survivors_Ode_to_Castlevania/?snr=1_7_7_2300_150_1",
+        "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3210350/b6c157d27fc717ea69a108dfefc3819b8d43bbab/capsule_sm_120.jpg?t=1730379208",
+        "id": "3210350",
+        "local_img_path": "resources\\3210350.jpg",
+        "original_price": "$3.99",
+        "final_price": "$3.59",
+        "discount": "无折扣"
+    },
+    {
+        "title": "The Outlast Trials",
+        "url": "https://store.steampowered.com/app/1304930/The_Outlast_Trials/?snr=1_7_7_2300_150_1",
+        "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1304930/capsule_sm_120.jpg?t=1721076293",
+        "id": "1304930",
+        "local_img_path": "resources\\1304930.jpg",
+        "original_price": "$39.99",
+        "final_price": "$26.79",
+        "discount": "无折扣"
+    },
+    {
+        "title": "Black Desert",
+        "url": "https://store.steampowered.com/app/582660/Black_Desert/?snr=1_7_7_2300_150_1",
+        "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/582660/capsule_sm_120.jpg?t=1728945637",
+        "id": "582660",
+        "local_img_path": "resources\\582660.jpg",
+        "original_price": "$9.99",
+        "final_price": "$0.99",
+        "discount": "无折扣"
+    },
+    {
+        "title": "Shin Megami Tensei V: Vengeance",
+        "url": "https://store.steampowered.com/app/1875830/Shin_Megami_Tensei_V_Vengeance/?snr=1_7_7_2300_150_1",
+        "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1875830/capsule_sm_120.jpg?t=1728897191",
+        "id": "1875830",
+        "local_img_path": "resources\\1875830.jpg",
+        "original_price": "$59.99",
+        "final_price": "$41.99",
+        "discount": "无折扣"
+    },
+    {
+        "title": "theHunter: Call of the Wild™",
+        "url": "https://store.steampowered.com/app/518790/theHunter_Call_of_the_Wild/?snr=1_7_7_2300_150_1",
+        "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/518790/capsule_sm_120.jpg?t=1727168644",
+        "id": "518790",
+        "local_img_path": "resources\\518790.jpg",
+        "original_price": "$19.99",
+        "final_price": "$5.99",
+        "discount": "无折扣"
+    },
+    {
+        "title": "Backrooms: Escape Together",
+        "url": "https://store.steampowered.com/app/2141730/Backrooms_Escape_Together/?snr=1_7_7_2300_150_1",
+        "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2141730/dcc2e9cc8d5c08bae8b72bc266592434ecd24425/capsule_sm_120.jpg?t=1725491752",
+        "id": "2141730",
+        "local_img_path": "resources\\2141730.jpg",
+        "original_price": "$7.99",
+        "final_price": "$6.39",
+        "discount": "无折扣"
+    },
+    {
+        "title": "Persona 3 Reload",
+        "url": "https://store.steampowered.com/app/2161700/Persona_3_Reload/?snr=1_7_7_2300_150_1",
+        "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2161700/capsule_sm_120.jpg?t=1725556209",
+        "id": "2161700",
+        "local_img_path": "resources\\2161700.jpg",
+        "original_price": "$69.99",
+        "final_price": "$41.99",
+        "discount": "无折扣"
+    },
+    {
+        "title": "Lies of P",
+        "url": "https://store.steampowered.com/app/1627720/Lies_of_P/?snr=1_7_7_2300_150_1",
+        "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1627720/capsule_sm_120.jpg?t=1726714349",
+        "id": "1627720",
+        "local_img_path": "resources\\1627720.jpg",
+        "original_price": "$59.99",
+        "final_price": "$35.99",
+        "discount": "无折扣"
+    },
+    {
+        "title": "Dead Space",
+        "url": "https://store.steampowered.com/app/1693980/Dead_Space/?snr=1_7_7_2300_150_1",
+        "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1693980/capsule_sm_120.jpg?t=1702492799",
+        "id": "1693980",
+        "local_img_path": "resources\\1693980.jpg",
+        "original_price": "$59.99",
+        "final_price": "$17.99",
+        "discount": "无折扣"
+    },
+    {
+        "title": "Dragon's Dogma 2",
+        "url": "https://store.steampowered.com/app/2054970/Dragons_Dogma_2/?snr=1_7_7_2300_150_1",
+        "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2054970/capsule_sm_120.jpg?t=1727767895",
+        "id": "2054970",
+        "local_img_path": "resources\\2054970.jpg",
+        "original_price": "$69.99",
+        "final_price": "$39.89",
+        "discount": "无折扣"
+    },
+    {
+        "title": "Valheim",
+        "url": "https://store.steampowered.com/app/892970/Valheim/?snr=1_7_7_2300_150_1",
+        "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/892970/9cc7dfa4f0742723ffe9f9026547b223bba6d149/capsule_sm_120_alt_assets_4.jpg?t=1730188784",
+        "id": "892970",
+        "local_img_path": "resources\\892970.jpg",
+        "original_price": "$19.99",
+        "final_price": "$9.99",
+        "discount": "无折扣"
+    }
+]

@@ -1,0 +1,252 @@
+[
+    {
+        "title": "Counter-Strike 2",
+        "url": "https://store.steampowered.com/app/730/CounterStrike_2/?snr=1_7_7_230_150_1",
+        "img": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/730/capsule_sm_120.jpg?t=1729703045",
+        "id": "730",
+        "local_img_path": "resources\\730.jpg",
+        "original_price": "Free to Play",
+        "final_price": "Free to Play",
+        "discount": "无折扣"
+    },
+    {
+        "title": "Call of Duty®: Black Ops 6",
+        "url": "https://store.steampowered.com/app/2933620/Call_of_Duty_Black_Ops_6/?snr=1_7_7_230_150_1",
+        "img": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/2933620/capsule_sm_120.jpg?t=1730505579",
+        "id": "2933620",
+        "local_img_path": "resources\\2933620.jpg",
+        "original_price": "79,99€",
+        "final_price": "79,99€",
+        "discount": "无折扣"
+    },
+    {
+        "title": "Dragon Age™: The Veilguard",
+        "url": "https://store.steampowered.com/app/1845910/Dragon_Age_The_Veilguard/?snr=1_7_7_230_150_1",
+        "img": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/1845910/9ffc80bed9c5290f264b072e7341890d9e12d779/capsule_sm_120.jpg?t=1730562781",
+        "id": "1845910",
+        "local_img_path": "resources\\1845910.jpg",
+        "original_price": "59,99€",
+        "final_price": "59,99€",
+        "discount": "无折扣"
+    },
+    {
+        "title": "Factorio",
+        "url": "https://store.steampowered.com/app/427520/Factorio/?snr=1_7_7_230_150_1",
+        "img": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/427520/capsule_sm_120.jpg?t=1730307306",
+        "id": "427520",
+        "local_img_path": "resources\\427520.jpg",
+        "original_price": "32,--€",
+        "final_price": "32,--€",
+        "discount": "无折扣"
+    },
+    {
+        "title": "THRONE AND LIBERTY",
+        "url": "https://store.steampowered.com/app/2429640/THRONE_AND_LIBERTY/?snr=1_7_7_230_150_1",
+        "img": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/2429640/capsule_sm_120.jpg?t=1728522618",
+        "id": "2429640",
+        "local_img_path": "resources\\2429640.jpg",
+        "original_price": "Free to Play",
+        "final_price": "Free to Play",
+        "discount": "无折扣"
+    },
+    {
+        "title": "Cyberpunk 2077",
+        "url": "https://store.steampowered.com/app/1091500/Cyberpunk_2077/?snr=1_7_7_230_150_1",
+        "img": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/1091500/capsule_sm_120.jpg?t=1730212296",
+        "id": "1091500",
+        "local_img_path": "resources\\1091500.jpg",
+        "original_price": "59,99€",
+        "final_price": "29,99€",
+        "discount": "50%"
+    },
+    {
+        "title": "Dota 2",
+        "url": "https://store.steampowered.com/app/570/Dota_2/?snr=1_7_7_230_150_1",
+        "img": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/570/capsule_sm_120.jpg?t=1729702585",
+        "id": "570",
+        "local_img_path": "resources\\570.jpg",
+        "original_price": "Free to Play",
+        "final_price": "Free to Play",
+        "discount": "无折扣"
+    },
+    {
+        "title": "PUBG: BATTLEGROUNDS",
+        "url": "https://store.steampowered.com/app/578080/PUBG_BATTLEGROUNDS/?snr=1_7_7_230_150_1",
+        "img": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/578080/4f5bd6fbde8ef39aea742014f13ce91f567ca472/capsule_sm_120.jpg?t=1727947409",
+        "id": "578080",
+        "local_img_path": "resources\\578080.jpg",
+        "original_price": "Free to Play",
+        "final_price": "Free to Play",
+        "discount": "无折扣"
+    },
+    {
+        "title": "Factorio: Space Age",
+        "url": "https://store.steampowered.com/app/645390/Factorio_Space_Age/?snr=1_7_7_230_150_1",
+        "img": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/645390/capsule_sm_120.jpg?t=1729525903",
+        "id": "645390",
+        "local_img_path": "resources\\645390.jpg",
+        "original_price": "32,--€",
+        "final_price": "32,--€",
+        "discount": "无折扣"
+    },
+    {
+        "title": "EA SPORTS FC™ 25",
+        "url": "https://store.steampowered.com/app/2669320/EA_SPORTS_FC_25/?snr=1_7_7_230_150_1",
+        "img": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/2669320/capsule_sm_120.jpg?t=1729643957",
+        "id": "2669320",
+        "local_img_path": "resources\\2669320.jpg",
+        "original_price": "69,99€",
+        "final_price": "69,99€",
+        "discount": "无折扣"
+    },
+    {
+        "title": "Liar's Bar",
+        "url": "https://store.steampowered.com/app/3097560/Liars_Bar/?snr=1_7_7_230_150_1",
+        "img": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/3097560/de5fadeac50760c4cb15ccd0d2b14a8662f00b75/capsule_sm_120.jpg?t=1728990434",
+        "id": "3097560",
+        "local_img_path": "resources\\3097560.jpg",
+        "original_price": "6,89€",
+        "final_price": "6,89€",
+        "discount": "无折扣"
+    },
+    {
+        "title": "Sons Of The Forest",
+        "url": "https://store.steampowered.com/app/1326470/Sons_Of_The_Forest/?snr=1_7_7_230_150_1",
+        "img": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/1326470/capsule_sm_120.jpg?t=1708624856",
+        "id": "1326470",
+        "local_img_path": "resources\\1326470.jpg",
+        "original_price": "28,99€",
+        "final_price": "15,94€",
+        "discount": "45%"
+    },
+    {
+        "title": "War Thunder",
+        "url": "https://store.steampowered.com/app/236390/War_Thunder/?snr=1_7_7_230_150_1",
+        "img": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/236390/17ee5af8d9da90216072a2a274d090b520ff8325/capsule_sm_120.jpg?t=1726558105",
+        "id": "236390",
+        "local_img_path": "resources\\236390.jpg",
+        "original_price": "Free to Play",
+        "final_price": "Free to Play",
+        "discount": "无折扣"
+    },
+    {
+        "title": "Hogwarts Legacy",
+        "url": "https://store.steampowered.com/app/990080/Hogwarts_Legacy/?snr=1_7_7_230_150_1",
+        "img": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/990080/capsule_sm_120.jpg?t=1717689083",
+        "id": "990080",
+        "local_img_path": "resources\\990080.jpg",
+        "original_price": "59,99€",
+        "final_price": "17,99€",
+        "discount": "70%"
+    },
+    {
+        "title": "DRAGON BALL: Sparking! ZERO",
+        "url": "https://store.steampowered.com/app/1790600/DRAGON_BALL_Sparking_ZERO/?snr=1_7_7_230_150_1",
+        "img": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/1790600/capsule_sm_120.jpg?t=1730214507",
+        "id": "1790600",
+        "local_img_path": "resources\\1790600.jpg",
+        "original_price": "69,99€",
+        "final_price": "69,99€",
+        "discount": "无折扣"
+    },
+    {
+        "title": "NARAKA: BLADEPOINT",
+        "url": "https://store.steampowered.com/app/1203220/NARAKA_BLADEPOINT/?snr=1_7_7_230_150_1",
+        "img": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/1203220/b9e318e3a42ef0d87c09d228cee1569efa1eaf67/capsule_sm_120.jpg?t=1730352667",
+        "id": "1203220",
+        "local_img_path": "resources\\1203220.jpg",
+        "original_price": "Free to Play",
+        "final_price": "Free to Play",
+        "discount": "无折扣"
+    },
+    {
+        "title": "Black Myth: Wukong",
+        "url": "https://store.steampowered.com/app/2358720/Black_Myth_Wukong/?snr=1_7_7_230_150_1",
+        "img": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/2358720/b7f722ddd5e23503f598586aa3700dd4d827bb2d/capsule_sm_120.jpg?t=1729236256",
+        "id": "2358720",
+        "local_img_path": "resources\\2358720.jpg",
+        "original_price": "59,99€",
+        "final_price": "59,99€",
+        "discount": "无折扣"
+    },
+    {
+        "title": "NBA 2K25",
+        "url": "https://store.steampowered.com/app/2878980/NBA_2K25/?snr=1_7_7_230_150_1",
+        "img": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/2878980/capsule_sm_120.jpg?t=1730136287",
+        "id": "2878980",
+        "local_img_path": "resources\\2878980.jpg",
+        "original_price": "79,99€",
+        "final_price": "39,99€",
+        "discount": "50%"
+    },
+    {
+        "title": "Warhammer 40,000: Space Marine 2",
+        "url": "https://store.steampowered.com/app/2183900/Warhammer_40000_Space_Marine_2/?snr=1_7_7_230_150_1",
+        "img": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/2183900/capsule_sm_120.jpg?t=1730218716",
+        "id": "2183900",
+        "local_img_path": "resources\\2183900.jpg",
+        "original_price": "59,99€",
+        "final_price": "59,99€",
+        "discount": "无折扣"
+    },
+    {
+        "title": "HELLDIVERS™ 2",
+        "url": "https://store.steampowered.com/app/553850/HELLDIVERS_2/?snr=1_7_7_230_150_1",
+        "img": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/553850/capsule_sm_120.jpg?t=1724260543",
+        "id": "553850",
+        "local_img_path": "resources\\553850.jpg",
+        "original_price": "39,99€",
+        "final_price": "39,99€",
+        "discount": "无折扣"
+    },
+    {
+        "title": "Red Dead Redemption 2",
+        "url": "https://store.steampowered.com/app/1174180/Red_Dead_Redemption_2/?snr=1_7_7_230_150_1",
+        "img": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/1174180/capsule_sm_120.jpg?t=1720558643",
+        "id": "1174180",
+        "local_img_path": "resources\\1174180.jpg",
+        "original_price": "89,99€",
+        "final_price": "31,49€",
+        "discount": "65%"
+    },
+    {
+        "title": "Dead by Daylight",
+        "url": "https://store.steampowered.com/app/381210/Dead_by_Daylight/?snr=1_7_7_230_150_1",
+        "img": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/381210/capsule_sm_120.jpg?t=1730209905",
+        "id": "381210",
+        "local_img_path": "resources\\381210.jpg",
+        "original_price": "19,99€",
+        "final_price": "7,99€",
+        "discount": "60%"
+    },
+    {
+        "title": "Warframe",
+        "url": "https://store.steampowered.com/app/230410/Warframe/?snr=1_7_7_230_150_1",
+        "img": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/230410/6736cc421657545d4de7f5b981e955211b8f38e4/capsule_sm_120.jpg?t=1730492093",
+        "id": "230410",
+        "local_img_path": "resources\\230410.jpg",
+        "original_price": "Free to Play",
+        "final_price": "Free to Play",
+        "discount": "无折扣"
+    },
+    {
+        "title": "Baldur's Gate 3",
+        "url": "https://store.steampowered.com/app/1086940/Baldurs_Gate_3/?snr=1_7_7_230_150_1",
+        "img": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/1086940/capsule_sm_120.jpg?t=1725654125",
+        "id": "1086940",
+        "local_img_path": "resources\\1086940.jpg",
+        "original_price": "59,99€",
+        "final_price": "59,99€",
+        "discount": "无折扣"
+    },
+    {
+        "title": "The Sims™ 4",
+        "url": "https://store.steampowered.com/app/1222670/The_Sims_4/?snr=1_7_7_230_150_1",
+        "img": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/1222670/capsule_sm_120.jpg?t=1730215145",
+        "id": "1222670",
+        "local_img_path": "resources\\1222670.jpg",
+        "original_price": "Free to Play",
+        "final_price": "Free to Play",
+        "discount": "无折扣"
+    }
+]
