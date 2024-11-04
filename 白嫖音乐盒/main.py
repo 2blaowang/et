@@ -4,9 +4,9 @@ import json
 import random
 from PyQt5.QtWidgets import QApplication, QWidget, QVBoxLayout, QHBoxLayout, QTextEdit, QPushButton, QLineEdit, QProgressBar, QMessageBox, QDialogButtonBox
 from PyQt5.QtCore import QThread, pyqtSignal, Qt  # 添加 Qt 导入
+from PyQt5.QtGui import QPixmap, QPalette, QBrush  # 导入 QBrush
+from The_US_Addr import generate_tax_free_addresses
 from baipiao import SteamScraper
-from The_US_Addr import generate_tax_free_addresses  # 导入 generate_tax_free_addresses 方法
-from CheckUU import UUAcceleratorFinder  # 导入 UUAcceleratorFinder 类
 
 class SteamScrapeThread(QThread):
     finished = pyqtSignal(str)
@@ -29,6 +29,7 @@ class TutorialWindow(QWidget):
         super().__init__()
         self.initUI()
         self.show_startup_dialog()  # 显示启动对话框
+        self.center_window()  # 将窗口居中显示
 
     def initUI(self):
         # 设置主布局
@@ -93,6 +94,18 @@ class TutorialWindow(QWidget):
         self.progress_bar = QProgressBar()
         self.progress_bar.setRange(0, 0)  # 无限进度条
         self.progress_bar.setVisible(False)
+        self.progress_bar.setStyleSheet("""
+            QProgressBar {
+                border: 2px solid grey;
+                border-radius: 5px;
+                text-align: center;
+            }
+            QProgressBar::chunk {
+                background-color: qlineargradient(x1:0, y1:0, x2:1, y2:0,
+                    stop:0 #FFDAB9, stop:0.5 #FF69B4, stop:1.0 #FFDAB9);
+                border-radius: 5px;
+            }
+        """)
         button_layout.addWidget(self.progress_bar)
 
         # 将输入框布局和按钮布局添加到右侧布局
@@ -106,9 +119,32 @@ class TutorialWindow(QWidget):
         # 设置窗口的主布局
         self.setLayout(main_layout)
 
+        # 设置窗口背景图片
+        palette = self.palette()
+        background_image = QPixmap("Loading.jpg")
+        brush = QBrush(background_image)
+        palette.setBrush(QPalette.Window, brush)
+        self.setPalette(palette)
+
         # 设置窗口标题和大小
         self.setWindowTitle('教程窗口')
         self.setGeometry(300, 300, 600, 400)
+
+    def center_window(self):
+        # 获取屏幕的几何尺寸
+        screen_geometry = QApplication.desktop().screenGeometry()
+        screen_width, screen_height = screen_geometry.width(), screen_geometry.height()
+
+        # 获取窗口的几何尺寸
+        window_size = self.frameGeometry()
+        window_width, window_height = window_size.width(), window_size.height()
+
+        # 计算窗口的位置
+        x = (screen_width - window_width) // 2
+        y = (screen_height - window_height) // 2
+
+        # 设置窗口的位置
+        self.move(x, y)
 
     def show_startup_dialog(self):
         # 创建消息框
@@ -182,7 +218,7 @@ class TutorialWindow(QWidget):
                        f"州: {address_info['州']}\n" \
                        f"邮编: {address_info['邮编']}\n" \
                        f"电话: {address_info['电话']}"
-        
+
         # 使用QMessageBox显示地址信息
         msg_box = QMessageBox()
         msg_box.setWindowTitle("美国免税州地址")
@@ -198,5 +234,7 @@ class TutorialWindow(QWidget):
 if __name__ == '__main__':
     app = QApplication(sys.argv)
     window = TutorialWindow()
+    window.resize(800, 800)
     window.show()
+    window.center_window()
     sys.exit(app.exec_())
